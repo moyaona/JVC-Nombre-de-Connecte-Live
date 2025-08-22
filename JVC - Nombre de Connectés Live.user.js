@@ -3,8 +3,8 @@
 // @version      1.0
 // @description  Affiche un compteur flottant du nombre de connectés d'un topic et sur la page d'accueil des sujets.
 // @author       moyaona
-// @updateURL https://github.com/moyaona/JVC-Nombre-de-Connecte-Live/raw/refs/heads/main/JVC%20-%20Nombre%20de%20Connect%C3%A9s%20Live.user.js
-// @downloadURL https://github.com/moyaona/JVC-Nombre-de-Connecte-Live/raw/refs/heads/main/JVC%20-%20Nombre%20de%20Connect%C3%A9s%20Live.user.js
+// @updateURL https://github.com/moyaona/JVC-Nombre-de-Connectes-Live/raw/refs/heads/main/JVC%20-%20Nombre%20de%20Connect%C3%A9s%20Live.user.js
+// @downloadURL https://github.com/moyaona/JVC-Nombre-de-Connectes-Live/raw/refs/heads/main/JVC%20-%20Nombre%20de%20Connect%C3%A9s%20Live.user.js
 // @match        https://www.jeuxvideo.com/forums/42-*-*-*-*-*-*-*.htm
 // @match        https://www.jeuxvideo.com/forums/0-*-*-*-*-*-*-*.htm
 // @grant        GM_addStyle

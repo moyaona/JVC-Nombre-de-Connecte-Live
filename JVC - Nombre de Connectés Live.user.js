@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         JVC - Nombre de Connectés Live
-// @version      1.0
+// @version      1.1
 // @description  Affiche un compteur flottant du nombre de connectés, sur les topics et la liste des sujets.
 // @author       moyaona
 // @updateURL https://github.com/moyaona/JVC-Nombre-de-Connectes-Live/raw/refs/heads/main/JVC%20-%20Nombre%20de%20Connect%C3%A9s%20Live.user.js
@@ -20,7 +20,7 @@
     GM_addStyle(`
         #jvc-sticky-connectes {
             position: fixed;
-            top: 70px;
+            top: 105px;
             right: 20px;
             z-index: 9999;
             background-color: #2d2d2d; /* Fond gris anthracite */
